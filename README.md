@@ -1,1 +1,0 @@
-# Database-for-Online-Retail-Store
